@@ -1,10 +1,10 @@
-/*----------head banner code here--------*/
+/*----------=======head banner code here===========--------*/
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0px;
     width: 100%;
     height: 50vh;
-    background: url(donate-today-main/images/banner-img.jpg);
+    background: url(donate-today-main/images/banner.jpg);
     margin-top: -50px;
     background-repeat: no-repeat;
     background-position: center;
@@ -42,8 +42,8 @@ body {
     color: white;
 }
 
-/*----------head banner code end--------*/
-/*----------Donet today code --------*/
+/*----------========head banner code end========--------*/
+/*----------=========Donet today code ========--------*/
 .Donet-today {
     width: 100%;
     height: 50vh;
@@ -99,8 +99,8 @@ body {
     color: white;
 }
 
-/*----------Donet today code end --------*/
-/*----------our donate plan code here--------*/
+/*----------======Donet today code end ========--------*/
+/*----------======our donate plan code here========--------*/
 .donation-plan {
     width: 100%;
     height: 50vh;
@@ -124,4 +124,61 @@ body {
     background: rgba(238, 232, 170, 0.356);
 }
 
-/*----------our donate plan code end--------*/
+/*----------=======our donate plan code end=======--------*/
+/*----------======optional code here=======--------*/
+.optional {
+    margin: 80px;
+}
+
+.three-img {
+    height: 150px;
+    margin: 20px;
+    object-fit: cover;
+}
+
+.opt-text a {
+    background: linear-gradient(90deg, orange, tomato);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+/*----------=======optional code end=========--------*/
+/*----------=========Get our update=======--------*/
+.update-text {
+    text-align: center;
+}
+
+.input-device {
+    width: 80%;
+    height: 100px;
+    background: rgba(192, 185, 91, 0.459);
+    text-align: center;
+}
+
+.input-box {
+    height: 30px;
+    margin-top: 29px;
+    border: none
+}
+
+.butt-box {
+    height: 33.5px;
+    margin-left: -20px;
+    background: linear-gradient(90deg, orange, tomato);
+}
+
+/*----------=======Get our updat end========--------*/
+/*----------=======footer=====--------*/
+
+footer {
+
+    height: 200px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+
+/*----------=========footer end========--------*/
